@@ -24,13 +24,13 @@
 A backend application designed to be used for ecommerce. Used node.js, MySQL2, Express, Sequelize, and dotenv.
   
 
-![DB Setup and Start]()
+![DB Setup and Start](https://drive.google.com/file/d/1TvwPp8VuCiZbq9pB2WihhRuQyWgCrdLI/view)
 
-![Category Routes]()
+![Category Routes](https://drive.google.com/file/d/1q9Ql3bHgvpKhzE35tAh6jlCpBcBezaZA/view)
 
-![Tag Routes]()
+![Tag Routes](https://drive.google.com/file/d/1oHW5_yLjSzca8xpWH5MwtMRDuSLfch_U/view)
 
-![Product Routes]()
+![Product Routes](https://drive.google.com/file/d/195MucF0m1VUeX1QK1Hiu65q1vLHrB_sU/view)
   
 
 
